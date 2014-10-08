@@ -1,3 +1,3 @@
 IO_MG
 =====
-Inzynieria Oprogramowania gr3
+Inżynieria Oprogramowania - grupa 3
